@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567001861 source:c:\users\alumno\desktop\ejerciciosprog1\funcionmenu\main.c
+	<stdio.h>
+	<stdlib.h>
+
